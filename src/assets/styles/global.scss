@@ -1,0 +1,15 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  font:14px/1.5 Arial,'Helvetica Neue',Helvetica,'Microsoft YaHei','PingFang SC',sans-serif;
+  -webkit-font-smoothing:antialiased;
+  background: url(../images/bg.jpg) no-repeat #f7f8fa;
+  background-size: cover;
+  line-height:1.8;
+  word-wrap:break-word;
+  color:#434343;
+  background-attachment: fixed;
+}
